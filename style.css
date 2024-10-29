@@ -1,0 +1,53 @@
+body
+{
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+hr
+{
+border: 0;
+  height: 4px;
+  background: black;
+ }
+h1
+{
+    margin: 15px;
+}
+table
+{
+   border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+font-size: 13px;
+
+  }
+
+th
+{
+    border: solid 1px rgb(223, 209, 209);
+    background-color: green;
+    color: white;
+    height: 25px;
+}
+
+tr
+{
+    border: solid 1px rgb(223, 209, 209);
+         
+}
+
+td
+{
+    border: solid 1px rgb(223, 209, 209);
+    height: 25px;
+}
+.odd
+{
+  background-color: rgb(245, 231, 231);
+
+}
+table tr:hover
+{
+  background-color: rosybrown;
+}
